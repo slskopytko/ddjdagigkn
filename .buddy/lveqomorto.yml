@@ -1,0 +1,4 @@
+- pipeline: lveqomorto
+  refs:
+  - refs/heads/master
+  on: CLICK
